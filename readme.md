@@ -1,5 +1,3 @@
-5 DEC 2024 - Started Learning GraphQL
-
 ❌ PROBLEMS IN REST API:
 
 For example this is an REST Endpoint: https://jsonplaceholder.typicode.com/todos
