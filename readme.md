@@ -39,3 +39,16 @@ which returns:
       "bs": "harness real-time e-markets"
     }
  },
+
+ ✅ NOW LET'S SOLVE THIS PROBLEM IN GRAPHQL:
+
+ In GraphQL the above problem we can solve by making the object like:
+
+todo:
+    {
+        title: "delectus aut autem",
+        user: {
+            name: "Leanne Graham"
+        }
+    }
+
